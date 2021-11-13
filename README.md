@@ -56,3 +56,7 @@ If you set all of this environment settings you'll never encounter any error wit
 6. Rank the star shaped groups
 7. Build the model on top ranked clusters
 8. Evaluate the model on top ranked clusters
+
+
+## Comparison of All Methods
+![alt text](Figures/Figure_Comparison_Number_of_Genes_AUCs_vs_Thresholds/Comparison_Of_All_Existing_Tools_miRModuleNet.png)
